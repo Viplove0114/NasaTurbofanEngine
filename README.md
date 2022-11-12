@@ -1,6 +1,6 @@
 # NasaTurbofanEngine
 
-#Introduction
+# Introduction
 
 Imagine you are the manager at a manufacturing company responsible for monitoring assembly lines. Each assembly line contains multiple kinds 
 of machines that must work continuously and reliably to produce ready-to-ship products as can be seen in the image below. IoT sensors placed 
@@ -14,13 +14,13 @@ published a report (http://www.advantech.com/industrial-automation/industry4.0/p
 Machine Learning can help with this problem. Your team's collective research notes regarding a potential proof-of-concept that you will be 
 building is included here:
 
-#Project Goal
+# Project Goal
 
 Create ML model that can predict Remaining Useful Life (RUL) on an engine after each run cycle to improve the Predictive Maintenance process. 
 With a predictive model, the Maintenance Department can use the information to determine when to perform preventative maintenance on an engine.
 This timing improvement will minimize engine down time resulting in increased production output and lower costs.
 
-#About the data:
+# About the data:
 
 Turbofan Engine Degradation Simulation Data Set Publications using this data set Description Engine degradation simulation was carried out
 using C-MAPSS. Four different were sets simulated under different combinations of operational conditions and fault modes. Records several
